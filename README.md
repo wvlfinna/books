@@ -1,2 +1,3 @@
 # books
-Free-To-Read Creative Commons Poetry Books. Fourth book & re-release of First Three books are being finalized for release. Paid print copies are available by contacting the author.
+
+Free-To-Read Creative Commons Poetry Books. Organized by [Ignited In Dark](https://ignitedindark.surge.sh/) `https://ignitedindark.surge.sh/` (Also on [Wordpress dot com](https://ignitedindark.wordpress.com/))
